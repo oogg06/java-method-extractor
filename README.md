@@ -4,7 +4,7 @@ Given a Java source filename and the name of a method it will extract the method
 Compiling
 ----------
 
-In order to compile it you will need JavaParser](https://github.com/javaparser/javaparser). Download and compile JavaParser and then you will be able to compile this  programa.
+In order to compile it you will need JavaParser](https://github.com/javaparser/javaparser). Download and compile JavaParser and then you will be able to compile this program.
 
 Use
 ---
